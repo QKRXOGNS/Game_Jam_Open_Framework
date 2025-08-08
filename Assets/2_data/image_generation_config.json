@@ -1,0 +1,51 @@
+{
+  "imageSettings": {
+    "style": "pixel_art_full_body",
+    "quality": "high",
+    "resolution": "512x512",
+    "artStyle": "16bit_pixel_art"
+  },
+  "promptTemplates": {
+    "basePrompt": "Create a medieval fantasy character in pixel art style, full body sprite",
+    "styleModifiers": [
+      "pixel art style",
+      "16-bit retro gaming style",
+      "pixelated character sprite",
+      "full body standing pose",
+      "medieval fantasy setting",
+      "RPG character sprite",
+      "detailed pixel work",
+      "retro game art"
+    ],
+    "characterTypes": {
+      "warrior": "medieval knight in plate armor with sword and shield, pixel art style",
+      "mage": "wizard in robes with staff and spellbook, pixel art medieval style",
+      "rogue": "hooded assassin with daggers in leather armor, pixel art style",
+      "archer": "forest ranger with bow and quiver, medieval pixel art",
+      "paladin": "holy knight with blessed armor and holy symbol, pixel art style",
+      "druid": "nature priest with wooden staff and animal companion, pixel art medieval"
+    }
+  },
+  "excludeTerms": [
+    "nsfw",
+    "inappropriate",
+    "violence",
+    "blood",
+    "realistic",
+    "photorealistic",
+    "3D render"
+  ],
+  "includeTerms": [
+    "pixel art",
+    "16-bit style",
+    "full body sprite",
+    "medieval fantasy",
+    "retro gaming",
+    "character sprite",
+    "standing pose",
+    "pixelated",
+    "RPG style",
+    "fantasy knight",
+    "medieval setting"
+  ]
+}
